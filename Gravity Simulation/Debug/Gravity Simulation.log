@@ -1,5 +1,2 @@
 ﻿  Gravity Simulation.cpp
-c:\users\mohah\source\repos\gravity simulation\gravity simulation\gravity simulation.cpp(60): warning C4018: '<': signed/unsigned mismatch
-c:\users\mohah\source\repos\gravity simulation\gravity simulation\gravity simulation.cpp(102): warning C4018: '<': signed/unsigned mismatch
-c:\users\mohah\source\repos\gravity simulation\gravity simulation\gravity simulation.cpp(105): warning C4018: '<': signed/unsigned mismatch
-  Gravity Simulation.vcxproj -> C:\Users\mohah\source\repos\Gravity Simulation\Debug\Gravity Simulation.exe
+  Gravity Simulation.vcxproj -> C:\Users\Mohamed Ahmed\Desktop\GS\Debug\Gravity Simulation.exe
