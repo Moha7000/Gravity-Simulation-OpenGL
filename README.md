@@ -10,9 +10,9 @@ change in velocity on x and y axis
 # p.vy += 0.0003 * p1.m / (d*d)  * (p1.y - p.y) / d;
 
 events:
-left click --> add samll particle at the mouse position
-right click ---> add big particle at the mouse position
-scroll click --> remove all the particles from the screen
+left click --> add samll particle at the mouse position<br />
+right click ---> add big particle at the mouse position<br />
+scroll click --> remove all the particles from the screen<br />
 
 
 # Sample View
