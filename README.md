@@ -6,8 +6,8 @@ this is a simulation of gravity between particles according to their masses as n
 initially a big particle is creatd at the orgin with infinty mass that will attrack any new particle creatd by left clicking on the mouse by the user as the new particle is samller than the big mass so the gravitation force accelerate the samall particles towards the orgin (Big mass)
 
 change in velocity on x and y axis
-p.vx += 0.0003 * p1.m / (d*d)  * (p1.x - p.x) / d;
-p.vy += 0.0003 * p1.m / (d*d)  * (p1.y - p.y) / d;
+# p.vx += 0.0003 * p1.m / (d*d)  * (p1.x - p.x) / d
+# p.vy += 0.0003 * p1.m / (d*d)  * (p1.y - p.y) / d;
 
 events:
 left click --> add samll particle at the mouse position
