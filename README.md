@@ -3,7 +3,7 @@
 this is a simulation of gravity between particles according to their masses as newton's law of universal gravitation
 ![img](http://www.calctool.org/CALC/phys/astronomy/gravity.png)
 
-initially a big particle is creatd at the orgin with infinty mass that will attrack any new particle creatd by left clicking on the mouse by the user as the new particle is samller than the big mass so the gravitation force accelerate the samall particles towards the orgin (Big mass)
+initially a big particle is created at the origin with infinity mass that will attrackt any new particle creatd by left clicking on the mouse by the user as the new particle is smaller than the big mass so the gravitation force accelerate the small particles towards the origin (Big mass)
 
 change in velocity on x and y axis
 # p.vx += 0.0003 * p1.m / (d*d)  * (p1.x - p.x) / d
